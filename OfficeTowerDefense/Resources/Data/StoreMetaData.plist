@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diamonds</key>
+	<array>
+		<dict>
+			<key>reward</key>
+			<integer>5</integer>
+			<key>productId</key>
+			<string>com.OfficeTowerDefense.diamonds5</string>
+		</dict>
+		<dict>
+			<key>reward</key>
+			<integer>25</integer>
+			<key>productId</key>
+			<string>com.OfficeTowerDefense.diamonds25</string>
+		</dict>
+		<dict>
+			<key>reward</key>
+			<integer>48</integer>
+			<key>productId</key>
+			<string>com.OfficeTowerDefense.diamonds48</string>
+		</dict>
+		<dict>
+			<key>reward</key>
+			<integer>80</integer>
+			<key>productId</key>
+			<string>com.OfficeTowerDefense.diamonds80</string>
+		</dict>
+		<dict>
+			<key>reward</key>
+			<integer>130</integer>
+			<key>productId</key>
+			<string>com.OfficeTowerDefense.diamonds130</string>
+		</dict>
+	</array>
+</dict>
+</plist>

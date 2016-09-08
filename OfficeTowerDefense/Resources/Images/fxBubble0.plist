@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fxBubble0_0</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{124,78}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{124,78}}</string>
+			<key>sourceSize</key>
+			<string>{124,78}</string>
+		</dict>
+		<key>fxBubble0_1</key>
+		<dict>
+			<key>frame</key>
+			<string>{{128,2},{59,67}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{59,67}}</string>
+			<key>sourceSize</key>
+			<string>{59,67}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>fxBubble0.png</string>
+		<key>size</key>
+		<string>{189,82}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:770f36503b9b53cc57b3f6a256ae2c13:df1b361e5d9a252c253073ca067f90d7:f83f80092658835d6648d1ddd77c62ab$</string>
+		<key>textureFileName</key>
+		<string>fxBubble0.png</string>
+	</dict>
+</dict>
+</plist>
